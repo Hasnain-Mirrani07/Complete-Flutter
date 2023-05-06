@@ -8,6 +8,8 @@ class KConstantFonts {
   static const String poppinsM = "Poppins-M";
 }
 
+var a;
+
 class FoodItem {
   final String foodTitle;
   final IconData foodIcon;
