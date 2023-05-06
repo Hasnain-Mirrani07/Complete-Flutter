@@ -20,10 +20,10 @@ class DropDownNotifier extends ChangeNotifier {
 class FlutterDropDownView extends StatelessWidget {
   const FlutterDropDownView({Key? key}) : super(key: key);
   List<String> itemsss = [
-    "India 🇮🇳",
+    "India 🇮🇳n",
     "Chile 🇨🇱",
     "France 🇫🇷",
-    "Argetina 🇦🇷",
+    "Argetina 🇦🇷r",
     "Indonesia 🇮🇩"
   ];
   @override
